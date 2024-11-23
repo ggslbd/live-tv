@@ -1,0 +1,88 @@
+{"vod":[
+
+	{	"channelName":"Al Jazeera",
+		"thumbUrl":"",
+		"linkUrl":"https://live-hls-web-aja.getaj.net/AJA/index.m3u8",
+		"logoUrl":"",
+		"videoTitle":"",
+		"channelCategory":"NEWS-LIVE"
+	},
+	{	"channelName":"TRT WORLD",
+		"thumbUrl":"",
+		"linkUrl":"https://tv-trtworld.medya.trt.com.tr/master.m3u8",
+		"logoUrl":"",
+		"videoTitle":"",
+		"channelCategory":"NEWS-LIVE"
+	},
+	{	"channelName":"DW TV",
+		"thumbUrl":"",
+		"linkUrl":"https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8",
+		"logoUrl":"",
+		"videoTitle":"",
+		"channelCategory":"NEWS-LIVE"
+	},
+	{	"channelName":"CGTN",
+		"thumbUrl":"",
+		"linkUrl":"https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8",
+		"logoUrl":"",
+		"videoTitle":"",
+		"channelCategory":"NEWS-LIVE"
+	},
+	{	"channelName":"Wild Eath",
+		"thumbUrl":"",
+		"linkUrl":"https://wildearth-roku.amagi.tv/masterR720P.m3u8",
+		"logoUrl":"",
+		"videoTitle":"",
+		"channelCategory":"NEWS-LIVE"
+	},
+	{	"channelName":"Wild Eath",
+		"thumbUrl":"",
+		"linkUrl":"https://wildearth-roku.amagi.tv/masterR720P.m3u8",
+		"logoUrl":"",
+		"videoTitle":"",
+		"channelCategory":"NEWS-LIVE"
+	},
+	{	"channelName":"Weyyak Drama",
+		"thumbUrl":"",
+		"linkUrl":"https://weyyak-live.akamaized.net/weyyak_drama/index.m3u8",
+		"logoUrl":"",
+		"videoTitle":"",
+		"channelCategory":"DRAMA-LIVE"
+	},
+	{	"channelName":"Al Kanal Music",
+		"thumbUrl":"",
+		"linkUrl":"https://albportal.net/albkanalemusic.m3u8",
+		"logoUrl":"",
+		"videoTitle":"",
+		"channelCategory":"MUSIC-LIVE"
+	},
+	{	"channelName":"TRT COCUK",
+		"thumbUrl":"",
+		"linkUrl":"https://tv-trtcocuk.medya.trt.com.tr/master.m3u8",
+		"logoUrl":"",
+		"videoTitle":"",
+		"channelCategory":"ANIMATION-LIVE"
+	},
+	{	"channelName":"TRT BELGESEL",
+		"thumbUrl":"",
+		"linkUrl":"https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8",
+		"logoUrl":"",
+		"videoTitle":"",
+		"channelCategory":"NATRUE-LIVE"
+	},
+	{	"channelName":"TRT AVAZ",
+		"thumbUrl":"",
+		"linkUrl":"https://tv-trtavaz.medya.trt.com.tr/master.m3u8",
+		"logoUrl":"",
+		"videoTitle":"",
+		"channelCategory":"ISLAMIC-LIVE"
+	},
+	{	"channelName":"Wild Eath",
+		"thumbUrl":"",
+		"linkUrl":"https://wildearth-roku.amagi.tv/masterR720P.m3u8",
+		"logoUrl":"",
+		"videoTitle":"",
+		"channelCategory":"NEWS-LIVE"
+	}
+	
+]}
