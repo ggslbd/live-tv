@@ -4,83 +4,80 @@
     "thumbUrl":"https://raw.githubusercontent.com/ggslbd/live-tv/main/al-jazeera.jpg",
     "linkUrl":"https://live-hls-web-aja.getaj.net/AJA/index.m3u8",
     "logoUrl":"http://reel.zapto.org:8081/vod/DDC%20MOVIE.png",
-    "videoTitle":"Live- TV"
+    "videoTitle":"Al Jazeera",
+    "adImageUrl":""
   },
   {
     "channelName":"TRT WORLD",
     "thumbUrl":"http://reel.zapto.org:8081/vod/DDC%20MOVIE.png",
     "linkUrl":"https://tv-trtworld.medya.trt.com.tr/master.m3u8",
     "logoUrl":"http://reel.zapto.org:8081/vod/DDC%20MOVIE.png",
-    "videoTitle":"Live- TV"
+    "videoTitle":"TRT WORLD" ,
+    "adImageUrl":""
   },
   {
     "channelName":"DW TV",
     "thumbUrl":"http://reel.zapto.org:8081/vod/DDC%20MOVIE.png",
     "linkUrl":"https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8",
     "logoUrl":"http://reel.zapto.org:8081/vod/DDC%20MOVIE.png",
-    "videoTitle":"Live- TV"
+    "videoTitle":"DW TV",
+    "adImageUrl":""
   },
   {
     "channelName":"CGTN",
     "thumbUrl":"http://reel.zapto.org:8081/vod/DDC%20MOVIE.png",
     "linkUrl":"https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8",
     "logoUrl":"http://reel.zapto.org:8081/vod/DDC%20MOVIE.png",
-    "videoTitle":"Live- TV"
+    "videoTitle":"CGTN",
+    "adImageUrl":""
   },
   {
     "channelName":"Wild Eath",
     "thumbUrl":"http://reel.zapto.org:8081/vod/DDC%20MOVIE.png",
     "linkUrl":"https://wildearth-roku.amagi.tv/masterR720P.m3u8",
     "logoUrl":"http://reel.zapto.org:8081/vod/DDC%20MOVIE.png",
-    "videoTitle":"Live- TV"
+    "videoTitle":"Wild Eath",
+    "adImageUrl":""
   },
-  {
-    "channelName":"Wild Eath",
-    "thumbUrl":"http://reel.zapto.org:8081/vod/DDC%20MOVIE.png",
-    "linkUrl":"https://wildearth-roku.amagi.tv/masterR720P.m3u8",
-    "logoUrl":"http://reel.zapto.org:8081/vod/DDC%20MOVIE.png",
-    "videoTitle":"Live- TV"
-  },
-  {
+   {
     "channelName":"Weyyak Drama",
     "thumbUrl":"http://reel.zapto.org:8081/vod/DDC%20MOVIE.png",
     "linkUrl":"https://weyyak-live.akamaized.net/weyyak_drama/index.m3u8",
     "logoUrl":"http://reel.zapto.org:8081/vod/DDC%20MOVIE.png",
-    "videoTitle":"Live- TV"
+    "videoTitle":"Weyyak Drama",
+    "adImageUrl":""
   },
   {
     "channelName":"Al Kanal Music",
     "thumbUrl":"http://reel.zapto.org:8081/vod/DDC%20MOVIE.png",
     "linkUrl":"https://albportal.net/albkanalemusic.m3u8",
     "logoUrl":"http://reel.zapto.org:8081/vod/DDC%20MOVIE.png",
-    "videoTitle":"Live- TV"
+    "videoTitle":"Al Kanal Music",
+    "adImageUrl":""
   },
   {
     "channelName":"TRT COCUK",
     "thumbUrl":"http://reel.zapto.org:8081/vod/DDC%20MOVIE.png",
     "linkUrl":"https://tv-trtcocuk.medya.trt.com.tr/master.m3u8",
     "logoUrl":"http://reel.zapto.org:8081/vod/DDC%20MOVIE.png",
-    "videoTitle":"Live- TV"
+    "videoTitle":"TRT COCUK",
+    "adImageUrl":""
   },
   {
     "channelName":"TRT BELGESEL",
     "thumbUrl":"http://reel.zapto.org:8081/vod/DDC%20MOVIE.png",
     "linkUrl":"https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8",
     "logoUrl":"http://reel.zapto.org:8081/vod/DDC%20MOVIE.png",
-    "videoTitle":"Live- TV"
+    "videoTitle":"TRT BELGESEL",
+    "adImageUrl":""
   },
   {
     "channelName":"TRT AVAZ",
     "thumbUrl":"http://reel.zapto.org:8081/vod/DDC%20MOVIE.png",
     "linkUrl":"https://tv-trtavaz.medya.trt.com.tr/master.m3u8",
     "logoUrl":"http://reel.zapto.org:8081/vod/DDC%20MOVIE.png",
-    "videoTitle":"Live- TV"
-  },
-  {
-    "channelName":"Wild Eath",
-    "thumbUrl":"http://reel.zapto.org:8081/vod/DDC%20MOVIE.png",
-    "linkUrl":"https://wildearth-roku.amagi.tv/masterR720P.m3u8",
-    "logoUrl":"http://reel.zapto.org:8081/vod/DDC%20MOVIE.png",
-    "videoTitle":"Live- TV"
+    "videoTitle":"TRT AVA",
+    "adImageUrl":""
   }
+ 
 ]}
