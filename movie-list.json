@@ -1,0 +1,14 @@
+{
+  "vod": [
+    {
+      "channelName": "DDC MOVIE",
+      "thumbUrl": "https://reel.zapto.org/vod/DDC MOVIE-Hubba.jpg",
+      "linkUrl": "https://reel.zapto.org/vod/DDC MOVIE-Hubba.mkv",
+      "logoUrl": "https://reel.zapto.org/vod/DDC MOVIE.png",
+      "videoTitle": "Hubba",
+      "adUrl": "Y",
+      "adLinkUrl": "http://reel.zapto.org:8081/stationid.mp4",
+      "adImageUrl": "https://reel.zapto.org/vod/DDC MOVIE-Hubba-adposter.jpg"
+    }
+  ]
+}
