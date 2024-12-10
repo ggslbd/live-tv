@@ -5,6 +5,7 @@
     "linkUrl":"https://live-hls-web-aja.getaj.net/AJA/index.m3u8",
     "logoUrl":"http://reel.zapto.org:8081/vod/DDC%20MOVIE.png",
     "videoTitle":"Al Jazeera",
+    "adLinkUrl": "https://reel.zapto.org/stationid.mp4",
     "adImageUrl":""
   },
   {
@@ -13,6 +14,7 @@
     "linkUrl":"https://tv-trtworld.medya.trt.com.tr/master.m3u8",
     "logoUrl":"http://reel.zapto.org:8081/vod/DDC%20MOVIE.png",
     "videoTitle":"TRT WORLD" ,
+    "adLinkUrl": "https://reel.zapto.org/stationid.mp4",
     "adImageUrl":""
   },
   {
@@ -21,6 +23,7 @@
     "linkUrl":"https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8",
     "logoUrl":"http://reel.zapto.org:8081/vod/DDC%20MOVIE.png",
     "videoTitle":"DW TV",
+    "adLinkUrl": "https://reel.zapto.org/stationid.mp4",
     "adImageUrl":""
   },
   {
@@ -29,6 +32,7 @@
     "linkUrl":"https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8",
     "logoUrl":"http://reel.zapto.org:8081/vod/DDC%20MOVIE.png",
     "videoTitle":"CGTN",
+    "adLinkUrl": "https://reel.zapto.org/stationid.mp4",
     "adImageUrl":""
   },
   {
@@ -37,6 +41,7 @@
     "linkUrl":"https://wildearth-roku.amagi.tv/masterR720P.m3u8",
     "logoUrl":"http://reel.zapto.org:8081/vod/DDC%20MOVIE.png",
     "videoTitle":"Wild Eath",
+    "adLinkUrl": "https://reel.zapto.org/stationid.mp4",
     "adImageUrl":""
   },
    {
@@ -45,6 +50,7 @@
     "linkUrl":"https://weyyak-live.akamaized.net/weyyak_drama/index.m3u8",
     "logoUrl":"http://reel.zapto.org:8081/vod/DDC%20MOVIE.png",
     "videoTitle":"Weyyak Drama",
+     "adLinkUrl": "https://reel.zapto.org/stationid.mp4",
     "adImageUrl":""
   },
   {
@@ -53,6 +59,7 @@
     "linkUrl":"https://albportal.net/albkanalemusic.m3u8",
     "logoUrl":"http://reel.zapto.org:8081/vod/DDC%20MOVIE.png",
     "videoTitle":"Al Kanal Music",
+    "adLinkUrl": "https://reel.zapto.org/stationid.mp4",
     "adImageUrl":""
   },
   {
@@ -61,6 +68,7 @@
     "linkUrl":"https://tv-trtcocuk.medya.trt.com.tr/master.m3u8",
     "logoUrl":"http://reel.zapto.org:8081/vod/DDC%20MOVIE.png",
     "videoTitle":"TRT COCUK",
+    "adLinkUrl": "https://reel.zapto.org/stationid.mp4",
     "adImageUrl":""
   },
   {
@@ -69,6 +77,7 @@
     "linkUrl":"https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8",
     "logoUrl":"http://reel.zapto.org:8081/vod/DDC%20MOVIE.png",
     "videoTitle":"TRT BELGESEL",
+    "adLinkUrl": "https://reel.zapto.org/stationid.mp4",
     "adImageUrl":""
   },
   {
@@ -77,6 +86,7 @@
     "linkUrl":"https://tv-trtavaz.medya.trt.com.tr/master.m3u8",
     "logoUrl":"http://reel.zapto.org:8081/vod/DDC%20MOVIE.png",
     "videoTitle":"TRT AVA",
+    "adLinkUrl": "https://reel.zapto.org/stationid.mp4",
     "adImageUrl":""
   }
  
