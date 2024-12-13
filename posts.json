@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "username": "@username1",
+        "avatar": "avatar.png",
+        "timestamp": "2h ago",
+        "title": "২১ ডিসেম্বর রাজধানীর আর্মি স্টেডিয়ামে কনসার্টটি আয়োজন করছে ‘স্পিরিটস অব জুলাই’ প্ল্যাটফর্ম।",
+        "description": "কনসার্টে রাহাত ফতেহ আলী খান ছাড়াও...",
+        "media": {
+            "type": "image",
+            "src": "rahat-ali-concert.webp"
+        }
+    },
+    {
+        "id": 2,
+        "username": "@username2",
+        "avatar": "avatar2.jpg",
+        "timestamp": "4h ago",
+        "title": "Another example of a post.",
+        "description": "This post has some additional description text to provide more detail.",
+        "media": {
+            "type": "video",
+            "src": "video2.mp4"
+        }
+    },
+    {
+        "id": 3,
+        "username": "@username2",
+        "avatar": "avatar2.jpg",
+        "timestamp": "4h ago",
+        "title": "Another post with audio.",
+        "description": "This post features an audio file.",
+        "media": {
+            "type": "audio",
+            "src": "music.mpeg"
+        }
+    }
+]
