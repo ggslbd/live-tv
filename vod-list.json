@@ -1,44 +1,50 @@
-{
-  "vod": [
-    {
-      "channelName": "DDC DRAMA",
-      "thumbUrl": "https://reel.zapto.org/vod/DDC DRAMA-কুরুলুস ওসমান  সিজন 01 ভলিউম 01.jpg",
-      "linkUrl": "https://reel.zapto.org/vod/DDC DRAMA-কুরুলুস ওসমান  সিজন 01 ভলিউম 01.mp4",
-      "logoUrl": "https://reel.zapto.org/vod/DDC DRAMA.png",
-      "videoTitle": "কুরুলুস ওসমান  সিজন 01 ভলিউম 01",
-      "adUrl": "Y",
-      "adLinkUrl": "https://reel.zapto.org/stationid.mp4",
-      "adImageUrl": "https://reel.zapto.org/vod/DDC DRAMA-কুরুলুস ওসমান  সিজন 01 ভলিউম 01-adposter.jpg"
-    },
-    {
-      "channelName": "DDC DRAMA",
-      "thumbUrl": "https://reel.zapto.org/vod/DDC DRAMA-কুরুলুস ওসমান  সিজন 01 ভলিউম 02.jpg",
-      "linkUrl": "https://reel.zapto.org/vod/DDC DRAMA-কুরুলুস ওসমান  সিজন 01 ভলিউম 02.mp4",
-      "logoUrl": "https://reel.zapto.org/vod/DDC DRAMA.png",
-      "videoTitle": "কুরুলুস ওসমান  সিজন 01 ভলিউম 02",
-      "adUrl": "Y",
-      "adLinkUrl": "https://reel.zapto.org/stationid.mp4",
-      "adImageUrl": "https://reel.zapto.org/vod/DDC DRAMA-কুরুলুস ওসমান  সিজন 01 ভলিউম 02-adposter.jpg"
-    },
-    {
-      "channelName": "DDC DRAMA",
-      "thumbUrl": "https://reel.zapto.org/vod/DDC DRAMA-কুরুলুস ওসমান  সিজন 01 ভলিউম 03.jpg",
-      "linkUrl": "https://reel.zapto.org/vod/DDC DRAMA-কুরুলুস ওসমান  সিজন 01 ভলিউম 03.mp4",
-      "logoUrl": "https://reel.zapto.org/vod/DDC DRAMA.png",
-      "videoTitle": "কুরুলুস ওসমান  সিজন 01 ভলিউম 03",
-      "adUrl": "Y",
-      "adLinkUrl": "https://reel.zapto.org/stationid.mp4",
-      "adImageUrl": "https://reel.zapto.org/vod/DDC DRAMA-কুরুলুস ওসমান  সিজন 01 ভলিউম 03-adposter.jpg"
-    },
-    {
-      "channelName": "DDC DRAMA",
-      "thumbUrl": "https://reel.zapto.org/vod/DDC DRAMA-কুরুলুস ওসমান  সিজন 01 ভলিউম 04.jpg",
-      "linkUrl": "https://reel.zapto.org/vod/DDC DRAMA-কুরুলুস ওসমান  সিজন 01 ভলিউম 04.mp4",
-      "logoUrl": "https://reel.zapto.org/vod/DDC DRAMA.png",
-      "videoTitle": "কুরুলুস ওসমান  সিজন 01 ভলিউম 04",
-      "adUrl": "Y",
-      "adLinkUrl": "https://reel.zapto.org/stationid.mp4",
-      "adImageUrl": "https://reel.zapto.org/vod/DDC DRAMA-কুরুলুস ওসমান  সিজন 01 ভলিউম 04-adposter.jpg"
-    }
-  ]
-}
+[
+  {
+    "postId": "1",
+    "channelName": "DDC Plus",
+    "thumbUrl": "/images/ddcplus-banner.png",
+    "linkUrl": "https://reel.zapto.org/hls/stream.m3u8",
+    "logoUrl": "/images/ddclogo.png",
+    "videoTitle": "24 Hours Entertainment",
+    "content": "",
+	"adUrl": "Y",
+	"adLinkUrl": "https://reel.zapto.org:8443/stationid.mp4",
+	"adImageUrl": "https://reel.zapto.org:8443/vod/ddcplus-banner.png"
+  },
+  {
+    "postId": "101",
+    "channelName": "DDC DRAMA",
+    "thumbUrl": "https://reel.zapto.org:8443/vod/DDC DRAMA-কুরুলুস ওসমান  সিজন 01 ভলিউম 01.jpg",
+    "linkUrl": "https://reel.zapto.org:8443/vod/DDC DRAMA-কুরুলুস ওসমান  সিজন 01 ভলিউম 01.mp4",
+    "logoUrl": "https://reel.zapto.org:8443/vod/DDC DRAMA.png",
+    "videoTitle": "কুরুলুস ওসমান  সিজন 01 ভলিউম 01",
+    "content": "",
+	"adUrl": "Y",
+	"adLinkUrl": "https://reel.zapto.org/stationid.mp4",
+	"adImageUrl": "https://reel.zapto.org/vod/DDC DRAMA-কুরুলুস ওসমান  সিজন 01 ভলিউম 01-adposter.jpg"
+  },
+  {
+    "postId": "103",
+    "channelName": "DDC DRAMA",
+    "thumbUrl": "https://reel.zapto.org:8443/vod/DDC DRAMA-কুরুলুস ওসমান  সিজন 01 ভলিউম 02.jpg",
+    "linkUrl": "https://reel.zapto.org:8443/vod/DDC DRAMA-কুরুলুস ওসমান  সিজন 01 ভলিউম 02.mp4",
+    "logoUrl": "https://reel.zapto.org:8443/vod/DDC DRAMA.png",
+    "videoTitle": "কুরুলুস ওসমান  সিজন 01 ভলিউম 02",
+    "content": "",
+	"adUrl": "Y",
+	"adLinkUrl": "https://reel.zapto.org/stationid.mp4",
+	"adImageUrl": "https://reel.zapto.org/vod/DDC DRAMA-কুরুলুস ওসমান  সিজন 01 ভলিউম 02-adposter.jpg"
+  },
+  {
+    "postId": "104",
+    "channelName": "DDC DRAMA",
+    "thumbUrl": "https://reel.zapto.org:8443/vod/DDC DRAMA-কুরুলুস ওসমান  সিজন 01 ভলিউম 03.jpg",
+    "linkUrl": "https://reel.zapto.org:8443/vod/DDC DRAMA-কুরুলুস ওসমান  সিজন 01 ভলিউম 03.mp4",
+    "logoUrl": "https://reel.zapto.org:8443/vod/DDC DRAMA.png",
+    "videoTitle": "কুরুলুস ওসমান  সিজন 01 ভলিউম 03",
+    "content": "",
+	"adUrl": "Y",
+	"adLinkUrl": "https://reel.zapto.org/stationid.mp4",
+	"adImageUrl": "https://reel.zapto.org/vod/DDC DRAMA-কুরুলুস ওসমান  সিজন 01 ভলিউম 03-adposter.jpg"
+  }
+]
