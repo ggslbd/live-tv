@@ -1,14 +1,14 @@
-[
-  {
-    
-    "channelName": "DDC Plus",
-    "thumbUrl": "https://reel.zapto.org:8443/vod/ddcplus-banner.png",
-    "linkUrl": "https://reel.zapto.org/hls/stream.m3u8",
-    "logoUrl": "/images/ddclogo.png",
-    "videoTitle": "24 Hours Entertainment",
-    "content": "",
-	"adUrl": "Y",
-	"adLinkUrl": "https://reel.zapto.org:8443/stationid.mp4",
-	"adImageUrl": "https://reel.zapto.org:8443/vod/ddcplus-banner.png"
-  }
-]
+{
+  "vod": [
+    {
+      "channelName": "DDC MOVIE",
+      "thumbUrl": "https://github.com/ggslbd/live-tv/blob/main/al-jazeera.jpg",
+      "linkUrl": "http://reel.zapto.org:8081/vod/DDC MOVIE-Hubba.mkv",
+      "logoUrl": "https://reel.zapto.org/vod/DDC MOVIE.png",
+      "videoTitle": "Hubba",
+      "adUrl": "Y",
+      "adLinkUrl": "https://reel.zapto.org/stationid.mp4",
+      "adImageUrl": "https://reel.zapto.org/vod/DDC MOVIE-Hubba-adposter.jpg"
+    }
+  ]
+}
