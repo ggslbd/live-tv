@@ -1,7 +1,7 @@
 {"vod":[
   {
     "channelName":"Al Jazeera",
-    "thumbUrl":"https://raw.githubusercontent.com/ggslbd/live-tv/main/al-jazeera.jpg",
+    "thumbUrl":"https://www.canva.com/design/DAGUph-klPE/MHmSXLm8iVCGkHe8ryGYdw/watch?utm_content=DAGUph-klPE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hab382ba99e",
     "linkUrl":"https://live-hls-web-aja.getaj.net/AJA/index.m3u8",
     "logoUrl":"http://reel.zapto.org:8081/vod/DDC%20MOVIE.png",
     "videoTitle":"Al Jazeera",
@@ -10,7 +10,7 @@
   },
   {
     "channelName":"TRT WORLD",
-    "thumbUrl":"http://reel.zapto.org:8081/vod/DDC%20MOVIE.png",
+    "thumbUrl":"https://www.canva.com/design/DAGViXGzkA8/5Lm-aW8pIhGTPikNZ_QJWw/view?utm_content=DAGViXGzkA8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3737f95286",
     "linkUrl":"https://tv-trtworld.medya.trt.com.tr/master.m3u8",
     "logoUrl":"http://reel.zapto.org:8081/vod/DDC%20MOVIE.png",
     "videoTitle":"TRT WORLD" ,
@@ -19,7 +19,7 @@
   },
   {
     "channelName":"DW TV",
-    "thumbUrl":"http://reel.zapto.org:8081/vod/DDC%20MOVIE.png",
+    "thumbUrl":"https://www.canva.com/design/DAGUpppptK0/AftchLc_sXG-ZT__QdhCsg/view?utm_content=DAGUpppptK0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3de41c534e",
     "linkUrl":"https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8",
     "logoUrl":"http://reel.zapto.org:8081/vod/DDC%20MOVIE.png",
     "videoTitle":"DW TV",
